@@ -31,32 +31,6 @@
 
 ---
 
-## 📁 Project Structure
-
-```
-
-ReelVibe/
-├── public/                # Static assets (icons, images)
-├── src/
-│   ├── assets/            # App images/media
-│   ├── components/        # Reusable UI components (e.g. MovieCard)
-│   ├── App.jsx            # Main UI layout
-│   ├── main.jsx           # Entry point (ReactDOM renders <App />)
-│   ├── index.css          # Global styles
-│   ├── app.css            # App-specific styles
-├── .env.local             # Environment variables (API keys etc.)
-├── .eslintrc.js           # Linting config
-├── .gitignore             # Git ignore rules
-├── index.html             # Root HTML with React mount point
-├── package.json           # Project metadata & dependencies
-├── package-lock.json      # Locked dependency versions
-├── vite.config.js         # Vite build config
-└── README.md              # You are here 😉
-
-````
-
----
-
 ## 🧪 How to Run Locally
 
 ### 1. Clone the repo
