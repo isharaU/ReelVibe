@@ -1,4 +1,3 @@
-Absolutely bro! Here’s a clean and beginner-friendly `README.md` for your 
 # 🎬 Movie Recommender App
 
 A simple and beautiful React application that displays a list of recommended movies with posters, descriptions, and ratings. Built with 💙 React and Tailwind CSS.
